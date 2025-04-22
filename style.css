@@ -1,0 +1,80 @@
+  *{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    font-weight: bold;
+    margin: 50px;
+    justify-content: space-between;
+}
+.text{
+    font-size: 50px;
+}
+.text1{
+    font-size: 30px;
+    
+}
+.main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.box{
+    background-image: url(https://images-assets.nasa.gov/image/AFRC2025-0041-27/AFRC2025-0041-27~large.jpg?w=1920&h=1280&fit=crop&crop=faces%2Cfocalpoint);
+    color: white;
+    width: 500px;
+    height: 400px;
+}
+.one{
+    padding: 20px;
+}
+.two{
+    padding: 20px;
+    margin-top: 160px;
+}
+.three{
+    padding: 20px;
+}
+.box1{
+    background-image: url(https://www.nasa.gov/wp-content/uploads/2025/04/iss072e742505.jpg?resize=1536,1024);
+    color: white;
+    width: 310px;
+    height: 400px;
+}
+.four{
+    padding: 20px;
+    margin-top: 100px;
+}
+.five{
+    padding: 20px;
+}
+.box2{
+    background-image: url(https://images-assets.nasa.gov/image/iss030e260480/iss030e260480~large.jpg?w=1920&h=1277&fit=crop&crop=faces%2Cfocalpoint);
+    color: white;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 8px;
+}
+.six{
+  padding: 20px;
+}
+.seven{
+    padding: 20px;
+    margin-top: -30px;
+  }
+.box3{
+   background-image: url(https://www.nasa.gov/wp-content/uploads/2025/04/spacewalk-4.jpg?resize=1536,1024);
+    color: white;
+    width: 300px;
+    height: 200px;
+} 
+.eight{
+    padding: 20px;
+  }
+  .nine{
+      padding: 20px;
+      
+
+    }
